@@ -1,3 +1,5 @@
+"use client"
+
 import { categories } from "../../../constants"
 import { usePathname} from "next/navigation"
 import NavLink from "./NavLink"
